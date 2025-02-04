@@ -1,4 +1,4 @@
-# 👨‍🎓 Projetos desenvolvidos na UFU
+# 👨‍🎓 Projetos desenvolvidos no curso da Alura
 
 👾Repositório destinado para armazenar meus estudos e projetos desenvolvidos no curso de JavaScript da Alura, onde estou aprimorando meus conhecimentos tanto de front-end quanto de node.js.
 
